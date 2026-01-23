@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello! I'm Matheus Nunes 👋
 
-<!--
-**Matheus083/Matheus083** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Currently studying to become a full-stack developer.
+- 🌱 Learning Python and JavaScript, and exploring Java out of curiosity.
+- 📫 How to reach me: **matheus2007n@gmail.com**
+- 😄 Pronouns: he/him
 
-Here are some ideas to get you started:
+### 📊 GitHub Stats
+<div align="center">
+  <a href="https://github.com/Matheus083">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
