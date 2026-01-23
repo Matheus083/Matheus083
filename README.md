@@ -12,3 +12,9 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus083&layout=compact&theme=tokyonight" />
 </div>
 
+### 🛠️ Languages I've Used
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,php,c" />
+</p>
+
+
