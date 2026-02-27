@@ -2,7 +2,7 @@
 
 - 🔭 Currently studying to become a full-stack developer.
 - 🌱 Learning Python and JavaScript, and exploring Java out of curiosity.
-- 📫 How to reach me: **matheus2007n@gmail.com**
+- 📫 How to reach me: **matheusnunes.tech.dev@gmail.com**
 - 😄 Pronouns: he/him
 
 ### 📊 GitHub Stats
