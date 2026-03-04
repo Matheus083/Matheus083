@@ -6,12 +6,12 @@
 - 😄 Pronouns: he/him
 
 ### 📊 GitHub Stats
-<div align="center">
+<p align="center">
   <a href="https://github.com/Matheus083">
     <img height="170" src="https://github-readme-stats.vercel.app/api?username=Matheus083&show_icons=true&theme=tokyonight" />
     <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus083&layout=compact&theme=tokyonight" />
   </a>
-</div>
+</p>
 
 ### 🛠️ Languages I've Used
 <p align="center">
