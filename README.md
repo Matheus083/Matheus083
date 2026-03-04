@@ -23,13 +23,14 @@
   <a href="https://instagram.com/083___matheus___" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-<a href="https://www.linkedin.com/in/matheus-nunes-34464b2a2" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="https://www.linkedin.com/in/matheus-nunes-34464b2a2" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
   <a href="mailto:matheus2007n@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
-![Snake animation](https://github.com/Matheus083/Matheus083/blob/output/github-contribution-grid-snake-dark.svg)
-
+<p align="center">
+  <img src="https://github.com/Matheus083/Matheus083/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
