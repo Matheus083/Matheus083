@@ -5,12 +5,17 @@
 - 📫 How to reach me: **matheusnunes.tech.dev@gmail.com**
 - 😄 Pronouns: he/him
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Trophies
 <p align="center">
-  <a href="https://github.com/Matheus083">
-    <img height="170" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Matheus083&show_icons=true&theme=tokyonight" />
-    <img height="170" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Matheus083&layout=compact&theme=tokyonight" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Matheus083&theme=tokyonight&no-frame=false&margin-w=15&column=4" alt="github trophies" />
   </a>
+</p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus083&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Matheus Stats" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus083&layout=compact&theme=tokyonight&hide_langs_border=true" alt="Top Languages" />
 </p>
 
 ### 🛠️ Languages I've Used
@@ -27,7 +32,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:matheusnunes.tech.dev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
