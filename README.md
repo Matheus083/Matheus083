@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=0077B5&height=200&section=header&text=Matheus%20Nunes&fontSize=70&animation=fadeIn&fontAlignY=35" />
-</div>
-
 ## 👋 Olá, eu sou o Matheus! 
 
 - 🔭 Atualmente estudando para me tornar um **Full-stack Developer**.
