@@ -8,12 +8,17 @@
 
 ### 💻 Linguagens de Programação
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,php,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,php,c,html,css,markdown" />
 </p>
 
-### 🛠️ Ferramentas e Tecnologias
+### 🚀 Frameworks & Bibliotecas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,docker" />
+  <img src="https://skillicons.dev/icons?i=django,flask,spring,selenium,qt" />
+  </p>
+
+### 🛠️ Ferramentas, Banco de Dados & SO
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,sqlite,mysql,ai" />
 </p>
 
 ---
@@ -28,7 +33,7 @@
 
 ### ✉️ Entre em contato
 <div align="center">
-  <a href="https://wa.me/5583993861857" target="_blank">
+  <a href="https://wa.me/558393861857" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/matheus-nunes-34464b2a2" target="_blank">
@@ -50,9 +55,10 @@
 </p>
 
 ---
-
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Frase Dev" />
+  <blockquote>
+    <h3>"The truth is like a lion; you don’t have to defend it. Let it loose; it will defend itself."</h3>
+  </blockquote>
   <br />
-  <img src="https://komarev.com/ghpvc/?username=Matheus083&label=Perfil%20Views&color=0077B5&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Matheus083&label=Profile%20Views&color=0077B5&style=flat" alt="Views" />
 </div>
