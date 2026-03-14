@@ -13,7 +13,7 @@
 
 ### 🛠️ Ferramentas e Tecnologias
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql,docker" />
 </p>
 
 ---
