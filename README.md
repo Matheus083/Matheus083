@@ -1,29 +1,29 @@
-## 👋 Olá, eu sou o Matheus! 
+## 👋 Hi, I'm Matheus! 
 
-- 🔭 Atualmente estudando para me tornar um **Full-stack Developer**.
-- 🌱 Focado em **Python** e **JavaScript**, e explorando **Java** por curiosidade.
-- 😄 Pronomes: He/Him (Ele/Dele)
+- 🔭 Currently studying to become a **Full-stack Developer**.
+- 🌱 Focused on **Python** and **JavaScript**, and exploring **Java** out of curiosity.
+- 😄 Pronouns: He/Him
 
 ---
 
-### 💻 Linguagens de Programação
+### 💻 Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,java,php,c,html,css,markdown" />
 </p>
 
-### 🚀 Frameworks & Bibliotecas
+### 🚀 Frameworks & Libraries
 <p align="left">
   <img src="https://skillicons.dev/icons?i=django,flask,spring,selenium,qt" />
-  </p>
+</p>
 
-### 🛠️ Ferramentas, Banco de Dados & SO
+### 🛠️ Tools, Databases & OS
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,sqlite,mysql,ai" />
 </p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 GitHub Stats
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus083&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus083&layout=compact&langs_count=7&theme=tokyonight" />
@@ -31,7 +31,7 @@
 
 ---
 
-### ✉️ Entre em contato
+### ✉️ Get in touch
 <div align="center">
   <a href="https://wa.me/558393861857" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -49,7 +49,7 @@
 
 <br />
 
-### 🐍 Atividade de Contribuições (Snake)
+### 🐍 Contribution Activity (Snake)
 <p align="center">
   <img src="https://github.com/Matheus083/Matheus083/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
