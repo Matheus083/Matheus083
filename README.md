@@ -18,7 +18,7 @@
 
 ### 🛠️ Tools, Databases & OS
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,sqlite,mysql,ai" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,sqlite,docker,mysql,ai" />
 </p>
 
 ---
