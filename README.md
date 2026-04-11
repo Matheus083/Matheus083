@@ -1,3 +1,11 @@
+## 🌐 Open Source Contributions
+
+### [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
+* **PR #18: Implemented Docker Compose Profiles for DX Optimization**
+    * Restructured container orchestration to allow isolated Frontend development.
+    * Configured Docker internal networking for DNS-based communication between containers (Vite <-> Python API).
+    * Streamlined the onboarding process for new contributors by reducing local environment dependencies for React/TypeScript developers.
+
 ## 👋 Hi, I'm Matheus! 
 
 - 🔭 Currently studying to become a **Full-stack Developer**.
@@ -48,6 +56,8 @@
 </div>
 
 <br />
+
+
 
 ### 🐍 Contribution Activity (Snake)
 <p align="center">
