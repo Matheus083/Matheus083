@@ -49,7 +49,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus083&layout=compact&langs_count=7&theme=tokyonight" />
 </div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Matheus083&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=Matheus083&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 ---
  
@@ -67,14 +67,14 @@
 ## 📈 Contribution Activity
  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus083&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus083&theme=tokyo-night&hide_border=true&area=true&cache_seconds=3600" alt="Contribution Graph" />
 </p>
 ---
  
 ## 🏆 GitHub Trophies
  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Matheus083&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Matheus083&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
 </div>
 ---
  
