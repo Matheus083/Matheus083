@@ -67,14 +67,15 @@
 ## 📈 Contribution Activity
  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus083&theme=tokyo-night&hide_border=true&area=true&cache_seconds=3600" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus083&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
 </p>
 ---
  
 ## 🏆 GitHub Trophies
  
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Matheus083&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Matheus083&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Matheus083&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3&rank=SECRET,SSS,SS,S,AAA" alt="Trophies 2" />
 </div>
 ---
  
