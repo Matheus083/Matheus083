@@ -1,4 +1,8 @@
-### 👋 Hi, I'm Matheus!
+<div align="center">
+<h1>👋 Hi, I'm Matheus! </h1>
+</div>
+ 
+
 <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+progress;Python+%7C+JavaScript+%7C+Java+enthusiast;Open+Source+Contributor;Building+cool+things+every+day+%F0%9F%9A%80)](https://git.io/typing-svg)
