@@ -21,17 +21,17 @@
  
 ## 💻 Tech Stack
  
-### Languages
+### Programming Languages
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,php,c,html,css,markdown" />
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java" />
 </p>
-### Frameworks & Libraries
+### Frameworks, Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,flask,spring,selenium,qt" />
+  <img src="https://skillicons.dev/icons?i=django,spring,selenium,qt" />
 </p>
 ### Tools, Databases & OS
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,sqlite,docker,mysql" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,sqlite,docker,mysql,html,css" />
 </p>
 ---
  
