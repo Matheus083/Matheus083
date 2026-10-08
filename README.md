@@ -8,7 +8,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+in+progress;Python+%7C+JavaScript+%7C+Java+enthusiast;Open+Source+Contributor;Building+cool+things+every+day+%F0%9F%9A%80)](https://git.io/typing-svg)
  
 </div>
----
+
  
 ## 🧑‍💻 About Me
  
@@ -17,7 +17,7 @@
 - 🤝 Open Source contributor — always looking for impactful PRs
 - 🎯 Passionate about clean architecture, DevX, and developer tooling
 - 😄 Pronouns: **He/Him**
----
+
  
 ## 💻 Tech Stack
  
@@ -33,7 +33,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,sqlite,docker,mysql,html,css" />
 </p>
----
+
  
 ## 🌐 Open Source Contributions
  
@@ -44,7 +44,7 @@
 - 🐳 Restructured container orchestration to allow isolated **Frontend development**
 - 🔗 Configured Docker internal networking for DNS-based communication between containers (**Vite ↔ Python API**)
 - 🚀 Streamlined onboarding for new contributors by reducing local environment dependencies for React/TypeScript developers
----
+
  
 ## 📊 GitHub Stats
  
@@ -55,7 +55,7 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=Matheus083&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
----
+
  
 ## 🐍 Snake eating my contributions
  
@@ -66,22 +66,7 @@
     <img alt="Snake animation" src="https://github.com/Matheus083/Matheus083/blob/output/github-contribution-grid-snake-dark.svg" />
   </picture>
 </p>
----
- 
-## 📈 Contribution Activity
- 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Matheus083&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
----
- 
-## 🏆 GitHub Trophies
- 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Matheus083&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=4" alt="Trophies" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Matheus083&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=3&rank=SECRET,SSS,SS,S,AAA" alt="Trophies 2" />
-</div>
----
+
  
 ## ✉️ Get in touch
  
@@ -99,7 +84,7 @@
     <img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
----
+
  
 <div align="center">
   <blockquote>
