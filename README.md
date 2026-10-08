@@ -25,18 +25,20 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,javascript,typescript,java" />
 </p>
+
 ### Frameworks, Libraries
 <p align="left">
   <img src="https://skillicons.dev/icons?i=django,spring,selenium,qt" />
 </p>
+
 ### Tools, Databases & OS
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,windows,linux,sqlite,docker,mysql,html,css" />
 </p>
 
- 
+
 ## 🌐 Open Source Contributions
- 
+
 ### 🔀 [HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)
  
 **PR #18 — Docker Compose Profiles for DX Optimization** ✅ Merged
