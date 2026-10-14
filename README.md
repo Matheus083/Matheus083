@@ -28,7 +28,7 @@
 
 ### Frameworks, Libraries
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=django,selenium,qt,spring,node,express,react" />
+  <img src="https://skillicons.dev/icons?i=django,selenium,qt,spring,express,react" />
 </p>
 
 ### Tools, Databases & OS
